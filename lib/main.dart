@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:luevanocurso/mi_widgets/mitarjeta.dart';
+//import 'package:luevanocurso/mi_widgets/mitarjeta.dart';
+import 'package:luevanocurso/mi_widgets/dialogo_acercade.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 void main() => runApp(const MiTarjeta());
@@ -17,7 +18,8 @@ class MiTarjeta extends StatelessWidget {
           title: const Text("Flutter kaylee"),
           centerTitle: true,
         ),
-        body: const LaTarjeta(),
+        //body: const LaTarjeta(),
+        body: const DialogoAcercaDe(),
       ),
     );
   }
