@@ -1,2 +1,2 @@
 ##Ejemplo card
-![la tarjeta](cap.jpg)
+![la tarjeta](Z_recursos/cap.jpg)
