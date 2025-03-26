@@ -5,3 +5,7 @@
 ![la tarjeta](/dialogo.jpg)
 ![la tarjeta](/dialogor.jpg)
 
+## Ejemplo Dialogo Lista 
+![la tarjeta](/dialogolista.jpg)
+![la tarjeta](/listadialogo.jpg)
+
